@@ -1,0 +1,3 @@
+package:/data/app/~~-qEvoynlfxOJdmw6POZVEQ==/com.chordai-ivz2b39bqLtlD5XPTqcDCg==/base.apk
+package:/data/app/~~-qEvoynlfxOJdmw6POZVEQ==/com.chordai-ivz2b39bqLtlD5XPTqcDCg==/split_config.arm64_v8a.apk
+package:/data/app/~~-qEvoynlfxOJdmw6POZVEQ==/com.chordai-ivz2b39bqLtlD5XPTqcDCg==/split_config.xxhdpi.apk
